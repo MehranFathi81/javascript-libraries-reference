@@ -171,11 +171,10 @@ Each section includes a short description, purpose, and official documentation l
 
 ---
 
-## 21. Validation.js
-**Purpose:** Form and input validation.  
-**Use case:** Validate emails, passwords, fields.  
-🔗 GitHub (example library): https://github.com/rickharrison/validate.js  
-🔗 Docs: https://validatejs.org/
+## 21. Validator.js
+**Purpose:** String validation & sanitization  
+**Use case:** Validate emails, URLs, UUIDs, passwords, etc.   
+🔗 GitHub: https://github.com/validatorjs/validator.js
 
 ---
 
